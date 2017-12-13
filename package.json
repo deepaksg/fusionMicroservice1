@@ -1,0 +1,16 @@
+{
+  "name": "fusion-microservice-1",
+  "version": "0.0.0",
+  "description": "Description for fusionMicroservice1",
+  "private": true,
+  "license": "UNLICENSED",
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "devDependencies": {
+    "generator-jhipster": "4.12.0"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  }
+}
